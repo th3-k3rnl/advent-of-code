@@ -1,10 +1,12 @@
+# VS Code configurations
 *.vscode/*
 
+# Meson build folder
 build/*
 
+# Input files containing challenge input data
 in
 
+# Executables and Object files
 *.o
 *.exe
-
-/**/*~
