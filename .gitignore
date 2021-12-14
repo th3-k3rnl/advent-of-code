@@ -1,5 +1,10 @@
-*.exe
-/**/*~
-in
-build/*
 .vscode/*
+
+build/*
+
+in
+
+*.o
+*.exe
+
+/**/*~
